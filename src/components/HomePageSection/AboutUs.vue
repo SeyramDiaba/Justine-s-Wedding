@@ -37,13 +37,13 @@ export default {
     data() {
         return {
             groom: {
-              name: "William Selassie Adu",
+              name: "William Adu",
             content: "Selassie is passionate about creating meaningful connections with people. He loves to explore, and share his experiences with others. With a keen eye for detail, Selassie takes pleasure in finding the beauty in the ordinary and transforming it into something extraordinary. On his wedding day, he is eager to celebrate love with his partner and share his joy with his loved ones.",
             cssClassContent: "text-lg-end",
             cssClassImage: "float-lg-end"
             },
             bride: {
-              name: "Justine Delali Ama Diaba",
+              name: "Justine Diaba",
             content: "Delali is a beautiful soul who radiates joy wherever she goes. She has a heart of gold and a smile that can light up any room. Her love for life and adventure is contagious, and she is always up for trying something new. As she prepares to tie the knot, Delali is excited to start a new chapter with the love of her life 'Selassie' and create beautiful memories together.",
             cssClassContent: "text-start",
             cssClassImage: ""

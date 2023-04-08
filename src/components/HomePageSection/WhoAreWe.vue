@@ -44,13 +44,13 @@ export default {
     return {
       groom : {
           id: 1,
-          name: "William Selasie Adu",
+          name: "William Adu",
           photo: "https://res.cloudinary.com/dcyay2pow/image/upload/v1680936709/photos/WhatsApp_Image_2023-04-05_at_7.16.00_PM_nzmehp.jpg"
         },
        bride: {
           id: 2,
-          name: "Justine Delali Ama Diaba",
-          photo: "https://res.cloudinary.com/dcyay2pow/image/upload/v1680936265/photos/WhatsApp_Image_2023-04-05_at_7.50.09_PM_ol3hfu.jpg"
+          name: "Justine Diaba",
+          photo: "https://res.cloudinary.com/dcyay2pow/image/upload/v1680935533/photos/42631820_1066865700160854_8635461704899100672_n_ntkaxv.jpg"
         }
       
     }

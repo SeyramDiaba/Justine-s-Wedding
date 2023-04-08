@@ -22,13 +22,13 @@
                     10.00 AM — 12.00 PM
                   </div>
                   <div class="P200 N900 py-2 text-capitalize">
-                    Mr. Diaba Thaddeus Kafui Yao's Residence
+                    Mr. Diaba Thaddeus' Residence
                   </div>
                   <div class="P200 N900 py-2 text-capitalize">
                     Adenta-Frafraha, Greater Accra Region
                   </div>
                   <div class="P200 N900 py-2 text-capitalize" style="color: #b13a1a">
-                    RSVP: Diaba Stephen Seyram Kodzo<br>Tel: 0500190679
+                    RSVP: Stephen Diaba<br>Tel: 0500190679
                   </div>
                   <a  href="https://goo.gl/maps/LzmsXBfnSLgKk4Ak8" target="_blank" type="button" class="btn bgColor2 borderColor py-2 text-capitalize" style="color: #b13a1a">View map</a>
                 </div>
@@ -56,7 +56,7 @@
                     Adenta, Greater Accra Region
                   </div>
                   <div class="P200 N900 py-2 text-capitalize" style="color: #b13a1a">
-                    RSVP: Diaba Stephen Seyram Kodzo<br>Tel: 0500190679
+                    RSVP: Stephen Diaba<br>Tel: 0500190679
                   </div>
                   <a  href="https://goo.gl/maps/pGXYe4Ge8x7NJmhU9" target="_blank" type="button" class="btn bgColor2 borderColor py-2 text-capitalize" style="color: #b13a1a">View map</a>
                 </div>
