@@ -1,0 +1,474 @@
+@import './base.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+$theme-colors: (
+        "primary": $primary,
+        "secondary": $secondary,
+        "success": $success,
+        "danger": $danger,
+        "info": $indigo,
+        "dark": $light,
+        "light": $light,
+    );
+
+:root {
+  color-scheme: light; /* both supported */
+}
+
+body {
+  font-family: Georgia, Times, 'Times New Roman', serif !important;
+  /* overflow-x: hidden; */
+}
+
+.row {
+ --bs-gutter-x: 0rem;
+}
+
+.container {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto; }
+  @media (min-width: 576px) {
+    .container {
+      max-width: 540px; } }
+  @media (min-width: 768px) {
+    .container {
+      max-width: 720px; } }
+  @media (min-width: 992px) {
+    .container {
+      max-width: 960px; } }
+  @media (min-width: 1200px) {
+    .container {
+      max-width: 1140px; } }
+
+      .avatar {
+        width: 15rem;
+        height: 15rem;
+        
+      }
+
+      .borderColor {
+        border: 0.1rem solid #b13a1a;
+      }
+
+/* Neutrals */
+.N900 {
+  color: #101840;
+}
+
+.N800 {
+  color: #474d66;
+}
+
+.N700 {
+  color: #696f8c;
+}
+
+.N600 {
+  color: #8f95b2;
+}
+
+.N500 {
+  color: #c1c4d6;
+}
+
+.N400 {
+  color: #d8dae5;
+}
+
+.N300 {
+  color: #e6e8f0;
+}
+
+.N200 {
+  color: #edeff5;
+}
+
+.N100 {
+  color: #f4f6fa;
+}
+
+.N75 {
+  color: #f9fafc;
+}
+
+.N50 {
+  color: #fafbff;
+}
+
+.N0 {
+  color: #ffffff;
+}
+.H300 {
+  font-weight: 700;
+  font-size: 1.694rem;
+  line-height: 60px;
+}
+
+/* FONTSTYLES */
+/* .H900 {
+  font-weight: 700;
+  font-size: 2.074rem;
+  line-height: 40px;
+}
+
+.H800 {
+  font-weight: 700;
+  font-size: 1.728rem;
+  line-height: 32px;
+}
+
+.H700 {
+  font-weight: 700;
+  font-size: 1.44rem;
+  line-height: 28px;
+}
+
+.H600 {
+  font-weight: 700;
+  font-size: 1.2rem;
+  line-height: 24px;
+}
+
+.H500 {
+  font-weight: 700;
+  font-size: 1rem;
+  line-height: 24px;
+}
+
+.H400 {
+  font-weight: 700;
+  font-size: 0.833rem;
+  line-height: 16px;
+}
+
+.H300 {
+  font-weight: 700;
+  font-size: 0.694rem;
+  line-height: 12px;
+}
+
+.H200 {
+  font-weight: 700;
+  font-size: 0.694rem;
+  line-height: 12px;
+}
+
+.H100 {
+  font-weight: 700;
+  font-size: 0.579rem;
+  line-height: 12px;
+}
+.P400 {
+  font-weight: 400;
+  font-size: 3.5rem;
+  line-height: 24px;
+  font-family: 'Alex Brush' !important;
+}
+.P300 {
+  font-weight: 400;
+  font-size: 1.2rem;
+  line-height: 24px;
+}
+
+.P250 {
+  font-weight: 600;
+  font-size: 1rem;
+  line-height: 24px;
+}
+
+.P200 {
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 24px;
+}
+
+.P100 {
+  font-weight: 400;
+  font-size: 0.833rem;
+  line-height: 16px;
+} */
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  .imgSlide {
+    /* height: 100vh; */
+    background-size: contain;
+    filter: blur(3px);
+    -webkit-filter: blur(px);
+    /* background-attachment: fixed; */
+  }
+  .H900 {
+    /* font-weight: 600; */
+    font-size: 2.5rem;
+    line-height: 40px;
+    font-family: 'Alex Brush' !important;
+    color: #b13a1a !important;
+  }
+
+  .P400 {
+    font-weight: 400;
+    font-size: 2rem;
+    line-height: 24px;
+    font-family: 'Alex Brush' !important;
+    color: #b13a1a !important;
+  }
+  .P300 {
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 24px;
+  }
+
+  .P250 {
+    font-weight: 600;
+    font-size: 1rem;
+    line-height: 24px;
+  }
+
+  .P200 {
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 24px;
+  }
+
+  .P100 {
+    font-weight: 400;
+    font-size: 0.7rem;
+    line-height: 16px;
+  }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+  .imgSlide {
+    /* height: 100vh; */
+    background-size: contain;
+    filter: blur(3px);
+    -webkit-filter: blur(px);
+    /* background-attachment: fixed; */
+  }
+  .H900 {
+    /* font-weight: 600; */
+    font-size: 2.5rem;
+    line-height: 40px;
+    font-family: 'Alex Brush' !important;
+    color: #b13a1a !important;
+  }
+
+  .P400 {
+    font-weight: 400;
+    font-size: 2rem;
+    line-height: 24px;
+    font-family: 'Alex Brush' !important;
+    color: #b13a1a !important;
+  }
+  .P300 {
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 24px;
+  }
+
+  .P250 {
+    font-weight: 600;
+    font-size: 1rem;
+    line-height: 24px;
+  }
+
+  .P200 {
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 24px;
+  }
+
+  .P100 {
+    font-weight: 400;
+    font-size: 0.7rem;
+    line-height: 16px;
+  }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+  .imgSlide {
+    /* height: 100vh; */
+    background-size: contain;
+    filter: blur(3px);
+    -webkit-filter: blur(px);
+    /* background-attachment: fixed; */
+  }
+  /* FONTSTYLES */
+  .H900 {
+    /* font-weight: 600; */
+    font-size: 4rem;
+    line-height: 40px;
+    font-family: 'Alex Brush' !important;
+    color: #b13a1a !important;
+  }
+
+  .P400 {
+    font-weight: 400;
+    font-size: 2rem;
+    line-height: 24px;
+    font-family: 'Alex Brush' !important;
+    color: #b13a1a !important;
+  }
+  .P300 {
+    font-weight: 400;
+    font-size: 1.2rem;
+    line-height: 24px;
+  }
+
+  .P250 {
+    font-weight: 600;
+    font-size: 1rem;
+    line-height: 24px;
+  }
+
+  .P200 {
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 24px;
+  }
+
+  .P100 {
+    font-weight: 400;
+    font-size: 0.833rem;
+    line-height: 16px;
+  }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+  .imgSlide {
+    height: 100vh;
+    background-size: contain;
+    filter: blur(3px);
+    -webkit-filter: blur(px);
+    /* background-attachment: fixed; */
+
+  }
+  /* FONTSTYLES */
+  .H900 {
+    /* font-weight: 600; */
+    font-size: 5rem;
+    line-height: 40px;
+  }
+
+  .P400 {
+    font-weight: 400;
+    font-size: 2.5rem;
+    line-height: 24px;
+    font-family: 'Alex Brush' !important;
+  }
+  .P300 {
+    font-weight: 400;
+    font-size: 1.2rem;
+    line-height: 24px;
+  }
+
+  .P250 {
+    font-weight: 600;
+    font-size: 1rem;
+    line-height: 24px;
+  }
+
+  .P200 {
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 24px;
+  }
+
+  .P100 {
+    font-weight: 400;
+    font-size: 0.433rem;
+    line-height: 16px;
+  }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+  .imgSlide {
+    height: 100vh;
+    background-size: contain;
+    filter: blur(3px);
+    -webkit-filter: blur(px);
+    /* background-attachment: fixed; */
+  }
+  /* FONTSTYLES */
+  .H900 {
+    /* font-weight: 600; */
+    font-size: 4.074rem;
+    line-height: 40px;
+  }
+
+  
+  .P400 {
+    font-weight: 400;
+    font-size: 2.5rem;
+    line-height: 24px;
+    font-family: 'Alex Brush' !important;
+  }
+  .P300 {
+    font-weight: 400;
+    font-size: 1.2rem;
+    line-height: 24px;
+  }
+
+  .P250 {
+    font-weight: 600;
+    font-size: 1rem;
+    line-height: 24px;
+  }
+
+  .P200 {
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 24px;
+  }
+
+  .P100 {
+    font-weight: 400;
+    font-size: 0.833rem;
+    line-height: 16px;
+  }
+}
+/* 
+
+#app {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+
+  font-weight: normal;
+}
+
+a,
+.green {
+  text-decoration: none;
+  color: hsla(160, 100%, 37%, 1);
+  transition: 0.4s;
+}
+
+@media (hover: hover) {
+  a:hover {
+    background-color: hsla(160, 100%, 37%, 0.2);
+  }
+}
+
+@media (min-width: 1024px) {
+  body {
+    display: flex;
+    place-items: center;
+  }
+
+  #app {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 0 2rem;
+  }
+} */
