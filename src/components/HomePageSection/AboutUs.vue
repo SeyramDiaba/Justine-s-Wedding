@@ -44,7 +44,7 @@ export default {
             },
             bride: {
               name: "Justine Diaba",
-            content: "Delali is a beautiful soul who radiates joy wherever she goes. She has a heart of gold and a smile that can light up any room. Her love for life and adventure is contagious, and she is always up for trying something new. As she prepares to tie the knot, Delali is excited to start a new chapter with the love of her life 'Selassie' and create beautiful memories together.",
+            content: "Justine is a beautiful soul who radiates joy wherever she goes. She has a heart of gold and a smile that can light up any room. Her love for life and adventure is contagious, and she is always up for trying something new. As she prepares to tie the knot, Delali is excited to start a new chapter with the love of her life 'Selasie' and create beautiful memories together.",
             cssClassContent: "text-start",
             cssClassImage: ""
             },
