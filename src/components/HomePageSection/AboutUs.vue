@@ -38,7 +38,7 @@ export default {
         return {
             groom: {
               name: "William Adu",
-            content: "Selassie is passionate about creating meaningful connections with people. He loves to explore, and share his experiences with others. With a keen eye for detail, Selassie takes pleasure in finding the beauty in the ordinary and transforming it into something extraordinary. On his wedding day, he is eager to celebrate love with his partner and share his joy with his loved ones.",
+            content: "Selasie is passionate about creating meaningful connections with people. He loves to explore, and share his experiences with others. With a keen eye for detail, Selassie takes pleasure in finding the beauty in the ordinary and transforming it into something extraordinary. On his wedding day, he is eager to celebrate love with his partner and share his joy with his loved ones.",
             cssClassContent: "text-lg-end",
             cssClassImage: "float-lg-end"
             },
