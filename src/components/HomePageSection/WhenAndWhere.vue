@@ -19,7 +19,7 @@
                     Friday, 14 April
                   </div>
                   <div class="P200 N900 py-2 text-capitalize">
-                    10.00 AM — 12.00 PM
+                    8.00 AM
                   </div>
                   <div class="P200 N900 py-2 text-capitalize">
                     Mr. Diaba Thaddeus' Residence
@@ -47,7 +47,7 @@
                     Saturday, 15 April
                   </div>
                   <div class="P200 N900 py-2 text-capitalize">
-                    11.00 AM — 1.00 PM
+                    11.00 AM
                   </div>
                   <div class="P200 N900 py-2 text-capitalize">
                     St. John The Evangelist Catholic Church
