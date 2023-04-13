@@ -13,7 +13,7 @@
             src="https://res.cloudinary.com/akwaah/image/upload/v1680436118/Untitled-1_mzqug3.png"
             alt=""
             loading="lazy"
-          />
+        />
           
 
           <!-- <div class="H900 " style="font-size: 8rem; width:160;
@@ -45,12 +45,12 @@ export default {
       groom : {
           id: 1,
           name: "William Adu",
-          photo: "https://res.cloudinary.com/dcyay2pow/image/upload/v1680936709/photos/WhatsApp_Image_2023-04-05_at_7.16.00_PM_nzmehp.jpg"
+          photo: "https://cvws.icloud-content.com/B/AXaF1zbRh00eN6ypMtkk8KIwK16TAT9JtbjQVvhzh_Y6srkocmtGRQrI/profilepicsel.jpg?o=Amx7WRpKmhrzwp1CVmBxsJYaMMEYtslPi5u2caIwr2ZZ&v=1&x=3&a=CAogZ2G_X2fd2r4QOnbTDwfZpF3UD-YFa6l3lsnUAWXbCnISbxC2_afJ9zAYttqDy_cwIgEAUgQwK16TWgRGRQrIaic012umuonA68WQdJySe5Pb3931fgkuem2f9fFjdjLUGGzl4CrHjU1yJ9ShAorrWIKZk1yzkdLIqExsZh1gXTecFn7VHtvPaprOhNmRjo3fMg&e=1681368608&fl=&r=b96e6487-7381-459f-99de-57ec8a16ec2d-1&k=cbuKpOBR1LYqxwE_ylwJpA&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=59&s=QwE8rQK7kPB0YaJOIdSzW2-tSBk&cd=i"
         },
        bride: {
           id: 2,
           name: "Justine Diaba",
-          photo: "https://res.cloudinary.com/dcyay2pow/image/upload/v1680935533/photos/42631820_1066865700160854_8635461704899100672_n_ntkaxv.jpg"
+          photo: "https://cvws.icloud-content.com/B/AYrH_iZvjz391GTUfPip91_sEScXAUJRMwY-XcC4_kSqpkHICQgcwf6v/justineprofile.jpg?o=Amq9oUE3tCU0MC_Pfl0URRwl7R6g5AcoYMX4xJKNQklL&v=1&x=3&a=CAogX5LfSDKZOHBrChDiGFnSMsWRiicsTgt3VvA8M-y16GUSbxDYs7bJ9zAY2JCSy_cwIgEAUgTsEScXWgQcwf6vaieTyARiC2FS-XxLePZOIKHAtHJTkcxZcrP8f9Us2lXTqbX5sEoLdUhyJ8r124EQ5IcIwlL146aGD8ZGaypapYZDMJ_9YBxpwMqOAfoc1dBMmg&e=1681368844&fl=&r=0e8ffb59-096c-4b57-9c5b-d31457e6a0d2-1&k=o0eDgK1IKOwOqUsrNpOuSA&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=59&s=nM12jBWeswXOfm8ysUfpAMZYRVQ&cd=i"
         }
       
     }

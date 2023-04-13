@@ -9,10 +9,10 @@
           <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
   <div class="bgCool">
     <div class="carousel-item active ">
-      <img src="https://res.cloudinary.com/dcyay2pow/image/upload/v1680954554/Brown_Modern_2_gjkpe0.png" class="d-block w-100" alt="...">
+      <img src="https://cvws.icloud-content.com/B/AVgoMY6P5C5bQbujHV-9ytxdNW5rAXEMKrUfJ6DOhkiA4arntaAKDVY0/chitr2.jpg?o=AqQwf5Lhgd8trxQPErSLikuQEowqL2xQhcg8hplKYjV9&v=1&x=3&a=CAogRnkuEvNwbxx7lZIjpsWppGtea81KbDlDL0A0NWsp4V4SbxCV4rTI9zAYlb-QyvcwIgEAUgRdNW5rWgQKDVY0aifWBIe5pylJlRQa_g-SVMmeMeUgmP5ONki5W5R2uzdcPnqtnW7R9PlyJ6lV2ze9unbEnQI8BFk3QpGWmbR-iX6EVN11kRARBNNVC1VsZuWncQ&e=1681366720&fl=&r=811dbc92-e60b-4336-a271-a2f0423e63c8-1&k=gxuMSJW8rRO_xheyFEsrjQ&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=59&s=KLx-mjNe1G0xvjs9ANh3euJGsxU&cd=i" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="https://res.cloudinary.com/dcyay2pow/image/upload/v1680954384/Brown_Modern_Thank_You_Banner_Landscape_1_l1fdto.png" class="d-block w-100" alt="...">
+      <img src="https://cvws.icloud-content.com/B/AYAygJrSgS66KHvCtEPIYIZ8RVyBAe_yCyrwMScrPJJBnfDajf2LP1OX/chitr.jpg?o=AtwnLbme8a5VKNlRSsiiKPzzk-v57Pj6-_kLxW7dQh8F&v=1&x=3&a=CAog7M8CYG8DE-UX5CBlWs9EXzpLAxqJOPbMAOyV-lCzUaoSbxDq_qjI9zAY6tuEyvcwIgEAUgR8RVyBWgSLP1OXaid_Ij-PQ11uGayrdRj93-LkUR-kHTN_095bDZ-yZhUWDuS007GN521yJ9MGcMt3ASBt1Q2ej36aF380cgq7csPwsnDpuKEPfRfesWRU1Rhhbg&e=1681366527&fl=&r=b43e19d5-b504-4fa8-8582-28f31ce7e40f-1&k=WllQCH5kLH_3vH-ZqaDIqg&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=59&s=eDeB29lHqBlBCl141aTcG-h8HGY&cd=i" class="d-block w-100" alt="...">
     </div>
     <!-- <div class="carousel-item">
       <img src="https://res.cloudinary.com/akwaah/image/upload/v1680203747/CG7A3084_ihsozw.jpg" class="d-block w-100" alt="...">
