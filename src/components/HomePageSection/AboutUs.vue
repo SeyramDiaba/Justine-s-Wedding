@@ -64,7 +64,7 @@ export default {
 <style scoped>
 
 .brideGroomImage {
-  background-image: url(https://res.cloudinary.com/dcyay2pow/image/upload/v1680936709/photos/WhatsApp_Image_2023-04-05_at_7.16.00_PM_nzmehp.jpg);
+  background-image: url(https://cvws.icloud-content.com/B/AXaF1zbRh00eN6ypMtkk8KIwK16TAT9JtbjQVvhzh_Y6srkocmtGRQrI/profilepicsel.jpg?o=AkpI-8vT0SDGcjDmdZwcOr2kSGzcUVI1bnIpz1koJ_yQ&v=1&x=3&a=CAogzfHl8VcMKXri2rGGtGqESxozdttitQbiK80kWy14m6cSbxCC4o_M9zAYgr_rzfcwIgEAUgQwK16TWgRGRQrIaiegeMyJpBuAfOs7w0MX6Y7WyZwQXsXnEAHWmJH-RywGQvc2t6Y9R5tyJ1UPZMiCR1Q0pKijBVGcP31K1W19DwDOSQ447uVGyVDoHE-X1ZpT2g&e=1681374502&fl=&r=b76f973c-63ba-4815-aac4-4230d7a442e2-1&k=cbuKpOBR1LYqxwE_ylwJpA&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=59&s=g4cW_hp3e-H0OsfpUM7hGym_RqM&cd=i);
     height: 50vh;
     background-position: top top;
     background-repeat: no-repeat;
